@@ -1,0 +1,14 @@
+{
+  "name": "lit-rpc-client-nodejs-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit-rpc-client-nodejs": "0.0.7"
+  }
+}
